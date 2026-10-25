@@ -1,0 +1,3 @@
+almacen.duckdb
+*.duckdb.wal
+__pycache__/

@@ -1,0 +1,27 @@
+// Medidas corregidas · Imagina en IT, episodio 1
+
+Ventas =
+SUMX ( Ventas, Ventas[Unidades] * Ventas[PrecioUnitario] * ( 1 - Ventas[Descuento] ) )
+
+Coste =
+SUMX ( Ventas, Ventas[Unidades] * RELATED ( Productos[Coste] ) )
+
+Margen = [Ventas] - [Coste]
+
+Margen % = DIVIDE ( [Margen], [Ventas] )
+
+// Error 1: comparar solo hasta la última fecha con ventas
+Ventas año anterior =
+VAR UltimaVenta = CALCULATE ( MAX ( Ventas[Fecha] ), ALL ( Ventas ) )
+VAR FechasConDatos =
+    FILTER ( VALUES ( 'Calendario'[Fecha] ), 'Calendario'[Fecha] <= UltimaVenta )
+RETURN
+    CALCULATE ( [Ventas], SAMEPERIODLASTYEAR ( FechasConDatos ) )
+
+Crecimiento interanual % =
+DIVIDE ( [Ventas] - [Ventas año anterior], [Ventas año anterior] )
+
+// Error 3: requiere Objetivos[Fecha] relacionada con Calendario[Fecha]
+Objetivo = SUM ( Objetivos[Objetivo] )
+
+Cumplimiento objetivo % = DIVIDE ( [Ventas], [Objetivo] )

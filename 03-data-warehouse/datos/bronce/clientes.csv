@@ -1,0 +1,642 @@
+CodCliente,Cliente,Ciudad,Tipo,FechaAlta
+C0000,Cliente de mostrador,Sevilla,Particular,2023-01-01
+C0001,Cliente 0001,Sevilla,Particular,2025-02-12
+C0002,Cliente 0002,Sevilla,Particular,2025-05-08
+C0003,Cliente 0003,Sevilla,Particular,2023-04-05
+C0004,Cliente 0004,Mairena del Aljarafe,Particular,2025-01-31
+C0005,Cliente 0005,Sevilla,Particular,2023-05-09
+C0006,Cliente 0006,Sevilla,Particular,2024-01-06
+C0007,Cliente 0007,Mairena del Aljarafe,Particular,2024-10-05
+C0008,Cliente 0008,Sevilla,Particular,2024-03-19
+C0009,Cliente 0009,Sevilla,Empresa,2024-07-08
+C0010,Cliente 0010,Utrera,Particular,2025-04-07
+C0011,Cliente 0011,Sevilla,Particular,2025-01-28
+C0012,Cliente 0012,Sevilla,Particular,2025-08-28
+C0013,Cliente 0013,Alcalá de Guadaíra,Particular,2025-02-17
+C0014,Cliente 0014,Sevilla,Empresa,2024-04-11
+C0015,Cliente 0015,Dos Hermanas,Particular,2023-06-04
+C0016,Cliente 0016,Écija,Particular,2025-01-14
+C0017,Cliente 0017,Sevilla,Particular,2023-11-22
+C0018,Cliente 0018,Sevilla,Particular,2024-04-14
+C0019,Cliente 0019,Sevilla,Particular,2023-05-10
+C0020,Cliente 0020,Sevilla,Particular,2023-08-15
+C0021,Cliente 0021,Écija,Particular,2024-03-13
+C0022,Cliente 0022,Dos Hermanas,Particular,2024-12-01
+C0023,Cliente 0023,Mairena del Aljarafe,Particular,2025-04-12
+C0024,Cliente 0024,Utrera,Particular,2024-01-23
+C0025,Cliente 0025,Sevilla,Particular,2024-11-13
+C0026,Cliente 0026,Utrera,Empresa,2023-07-19
+C0027,Cliente 0027,Mairena del Aljarafe,Particular,2025-02-25
+C0028,Cliente 0028,Sevilla,Particular,2024-12-06
+C0029,Cliente 0029,Dos Hermanas,Particular,2024-04-03
+C0030,Cliente 0030,Sevilla,Particular,2023-05-20
+C0031,Cliente 0031,Sevilla,Particular,2024-10-30
+C0032,Cliente 0032,Utrera,Particular,2024-07-19
+C0033,Cliente 0033,Dos Hermanas,Particular,2024-09-26
+C0034,Cliente 0034,Sevilla,Particular,2024-07-13
+C0035,Cliente 0035,Dos Hermanas,Particular,2023-01-31
+C0036,Cliente 0036,Écija,Particular,2023-08-03
+C0037,Cliente 0037,Écija,Particular,2025-05-03
+C0038,Cliente 0038,Utrera,Particular,2023-02-28
+C0039,Cliente 0039,Écija,Particular,2023-10-21
+C0040,Cliente 0040,Sevilla,Particular,2024-07-11
+C0041,Cliente 0041,Écija,Particular,2024-10-26
+C0042,Cliente 0042,Sevilla,Particular,2025-03-25
+C0043,Cliente 0043,Sevilla,Particular,2023-01-23
+C0044,Cliente 0044,Mairena del Aljarafe,Particular,2024-12-23
+C0045,Cliente 0045,Alcalá de Guadaíra,Particular,2023-06-11
+C0046,Cliente 0046,Écija,Particular,2023-06-02
+C0047,Cliente 0047,Sevilla,Particular,2024-03-22
+C0048,Cliente 0048,Sevilla,Particular,2023-10-29
+C0049,Cliente 0049,Dos Hermanas,Particular,2023-12-28
+C0050,Cliente 0050,Sevilla,Particular,2023-04-29
+C0051,Cliente 0051,Sevilla,Particular,2025-06-27
+C0052,Cliente 0052,Sevilla,Particular,2023-09-23
+C0053,Cliente 0053,Sevilla,Particular,2025-02-17
+C0054,Cliente 0054,Mairena del Aljarafe,Particular,2024-03-25
+C0055,Cliente 0055,Sevilla,Particular,2023-04-07
+C0056,Cliente 0056,Sevilla,Particular,2024-03-31
+C0057,Cliente 0057,Alcalá de Guadaíra,Particular,2023-11-02
+C0058,Cliente 0058,Dos Hermanas,Particular,2023-06-26
+C0059,Cliente 0059,Sevilla,Particular,2025-01-28
+C0060,Cliente 0060,Alcalá de Guadaíra,Particular,2024-03-08
+C0061,Cliente 0061,Sevilla,Particular,2024-08-07
+C0062,Cliente 0062,Dos Hermanas,Particular,2023-03-26
+C0063,Cliente 0063,Mairena del Aljarafe,Particular,2023-02-11
+C0064,Cliente 0064,Sevilla,Particular,2023-11-26
+C0065,Cliente 0065,Alcalá de Guadaíra,Particular,2023-04-14
+C0066,Cliente 0066,Mairena del Aljarafe,Particular,2023-06-20
+C0067,Cliente 0067,Écija,Particular,2024-08-04
+C0068,Cliente 0068,Dos Hermanas,Empresa,2024-08-13
+C0069,Cliente 0069,Sevilla,Particular,2025-08-16
+C0070,Cliente 0070,Sevilla,Particular,2025-02-21
+C0071,Cliente 0071,Sevilla,Particular,2024-05-01
+C0072,Cliente 0072,Sevilla,Particular,2025-07-26
+C0073,Cliente 0073,Sevilla,Particular,2024-04-18
+C0074,Cliente 0074,Écija,Particular,2023-11-28
+C0075,Cliente 0075,Utrera,Empresa,2024-03-14
+C0076,Cliente 0076,Sevilla,Particular,2025-04-06
+C0077,Cliente 0077,Sevilla,Particular,2023-05-21
+C0078,Cliente 0078,Sevilla,Particular,2023-04-19
+C0079,Cliente 0079,Sevilla,Particular,2023-10-09
+C0080,Cliente 0080,Mairena del Aljarafe,Particular,2024-12-27
+C0081,Cliente 0081,Sevilla,Particular,2023-04-18
+C0082,Cliente 0082,Écija,Empresa,2023-08-19
+C0083,Cliente 0083,Sevilla,Particular,2024-07-08
+C0084,Cliente 0084,Sevilla,Particular,2025-04-09
+C0085,Cliente 0085,Écija,Particular,2023-11-14
+C0086,Cliente 0086,Dos Hermanas,Particular,2023-10-18
+C0087,Cliente 0087,Utrera,Particular,2023-09-13
+C0088,Cliente 0088,Sevilla,Empresa,2023-06-14
+C0089,Cliente 0089,Sevilla,Particular,2024-03-11
+C0090,Cliente 0090,Sevilla,Particular,2025-06-10
+C0091,Cliente 0091,Utrera,Particular,2025-06-09
+C0092,Cliente 0092,Sevilla,Particular,2024-06-02
+C0093,Cliente 0093,Sevilla,Particular,2025-02-11
+C0094,Cliente 0094,Sevilla,Particular,2024-01-09
+C0095,Cliente 0095,Mairena del Aljarafe,Particular,2025-01-16
+C0096,Cliente 0096,Sevilla,Particular,2025-07-25
+C0097,Cliente 0097,Sevilla,Particular,2023-05-03
+C0098,Cliente 0098,Utrera,Particular,2023-06-03
+C0099,Cliente 0099,Sevilla,Particular,2024-08-22
+C0100,Cliente 0100,Sevilla,Particular,2023-07-16
+C0101,Cliente 0101,Écija,Particular,2025-02-16
+C0102,Cliente 0102,Sevilla,Particular,2024-05-15
+C0103,Cliente 0103,Écija,Particular,2023-01-14
+C0104,Cliente 0104,Sevilla,Particular,2023-05-12
+C0105,Cliente 0105,Écija,Particular,2023-05-02
+C0106,Cliente 0106,Écija,Particular,2024-11-25
+C0107,Cliente 0107,Sevilla,Particular,2023-07-19
+C0108,Cliente 0108,Sevilla,Particular,2024-12-16
+C0109,Cliente 0109,Utrera,Particular,2023-05-12
+C0110,Cliente 0110,Dos Hermanas,Particular,2025-07-16
+C0111,Cliente 0111,Écija,Particular,2023-10-28
+C0112,Cliente 0112,Sevilla,Particular,2024-10-24
+C0113,Cliente 0113,Sevilla,Particular,2023-10-14
+C0114,Cliente 0114,Sevilla,Particular,2023-01-25
+C0115,Cliente 0115,Sevilla,Particular,2024-09-25
+C0116,Cliente 0116,Alcalá de Guadaíra,Particular,2023-05-21
+C0117,Cliente 0117,Sevilla,Particular,2025-08-24
+C0118,Cliente 0118,Sevilla,Particular,2025-07-22
+C0119,Cliente 0119,Sevilla,Particular,2024-04-12
+C0120,Cliente 0120,Utrera,Particular,2023-01-18
+C0121,Cliente 0121,Sevilla,Particular,2025-04-09
+C0122,Cliente 0122,Sevilla,Particular,2023-08-21
+C0123,Cliente 0123,Mairena del Aljarafe,Particular,2024-08-29
+C0124,Cliente 0124,Mairena del Aljarafe,Particular,2024-08-26
+C0125,Cliente 0125,Sevilla,Particular,2024-01-10
+C0126,Cliente 0126,Sevilla,Particular,2024-10-13
+C0127,Cliente 0127,Sevilla,Particular,2024-03-29
+C0128,Cliente 0128,Sevilla,Particular,2023-08-25
+C0129,Cliente 0129,Utrera,Particular,2025-03-27
+C0130,Cliente 0130,Utrera,Particular,2023-03-08
+C0131,Cliente 0131,Sevilla,Particular,2023-05-27
+C0132,Cliente 0132,Sevilla,Particular,2023-11-07
+C0133,Cliente 0133,Écija,Particular,2025-07-09
+C0134,Cliente 0134,Sevilla,Particular,2023-10-12
+C0135,Cliente 0135,Sevilla,Empresa,2023-04-26
+C0136,Cliente 0136,Alcalá de Guadaíra,Particular,2023-02-25
+C0137,Cliente 0137,Utrera,Particular,2023-02-23
+C0138,Cliente 0138,Sevilla,Particular,2024-11-11
+C0139,Cliente 0139,Utrera,Particular,2023-11-14
+C0140,Cliente 0140,Mairena del Aljarafe,Particular,2025-05-25
+C0141,Cliente 0141,Sevilla,Particular,2023-02-13
+C0142,Cliente 0142,Utrera,Particular,2023-08-25
+C0143,Cliente 0143,Alcalá de Guadaíra,Particular,2024-07-25
+C0144,Cliente 0144,Sevilla,Particular,2023-02-19
+C0145,Cliente 0145,Écija,Particular,2024-06-07
+C0146,Cliente 0146,Sevilla,Empresa,2025-04-13
+C0147,Cliente 0147,Sevilla,Particular,2025-07-13
+C0148,Cliente 0148,Utrera,Particular,2025-04-23
+C0149,Cliente 0149,Sevilla,Particular,2025-09-06
+C0150,Cliente 0150,Dos Hermanas,Particular,2025-02-18
+C0151,Cliente 0151,Dos Hermanas,Particular,2025-02-17
+C0152,Cliente 0152,Utrera,Particular,2024-06-20
+C0153,Cliente 0153,Écija,Particular,2025-05-07
+C0154,Cliente 0154,Mairena del Aljarafe,Particular,2024-01-21
+C0155,Cliente 0155,Sevilla,Particular,2023-09-24
+C0156,Cliente 0156,Sevilla,Particular,2024-04-22
+C0157,Cliente 0157,Dos Hermanas,Particular,2023-08-21
+C0158,Cliente 0158,Sevilla,Particular,2024-01-02
+C0159,Cliente 0159,Sevilla,Particular,2024-01-15
+C0160,Cliente 0160,Sevilla,Particular,2023-10-24
+C0161,Cliente 0161,Alcalá de Guadaíra,Particular,2025-07-05
+C0162,Cliente 0162,Mairena del Aljarafe,Particular,2023-11-25
+C0163,Cliente 0163,Écija,Particular,2025-04-28
+C0164,Cliente 0164,Sevilla,Particular,2025-03-15
+C0165,Cliente 0165,Mairena del Aljarafe,Particular,2024-09-24
+C0166,Cliente 0166,Sevilla,Particular,2025-01-04
+C0167,Cliente 0167,Dos Hermanas,Particular,2024-11-25
+C0168,Cliente 0168,Écija,Particular,2023-05-13
+C0169,Cliente 0169,Dos Hermanas,Particular,2023-04-06
+C0170,Cliente 0170,Dos Hermanas,Particular,2023-03-26
+C0171,Cliente 0171,Alcalá de Guadaíra,Particular,2023-05-18
+C0172,Cliente 0172,Sevilla,Particular,2025-03-11
+C0173,Cliente 0173,Sevilla,Particular,2025-02-21
+C0174,Cliente 0174,Écija,Particular,2025-08-04
+C0175,Cliente 0175,Alcalá de Guadaíra,Particular,2024-08-13
+C0176,Cliente 0176,Sevilla,Particular,2024-09-08
+C0177,Cliente 0177,Sevilla,Particular,2024-07-18
+C0178,Cliente 0178,Sevilla,Particular,2024-04-10
+C0179,Cliente 0179,Mairena del Aljarafe,Particular,2025-02-02
+C0180,Cliente 0180,Sevilla,Particular,2024-05-07
+C0181,Cliente 0181,Sevilla,Particular,2025-07-20
+C0182,Cliente 0182,Mairena del Aljarafe,Particular,2023-04-28
+C0183,Cliente 0183,Sevilla,Particular,2024-10-19
+C0184,Cliente 0184,Écija,Particular,2025-02-13
+C0185,Cliente 0185,Mairena del Aljarafe,Particular,2023-11-30
+C0186,Cliente 0186,Mairena del Aljarafe,Particular,2025-02-01
+C0187,Cliente 0187,Mairena del Aljarafe,Particular,2023-12-31
+C0188,Cliente 0188,Sevilla,Particular,2023-06-07
+C0189,Cliente 0189,Sevilla,Particular,2025-07-25
+C0190,Cliente 0190,Mairena del Aljarafe,Particular,2024-01-19
+C0191,Cliente 0191,Sevilla,Particular,2024-07-06
+C0192,Cliente 0192,Sevilla,Particular,2025-02-19
+C0193,Cliente 0193,Sevilla,Particular,2024-01-12
+C0194,Cliente 0194,Sevilla,Particular,2024-12-18
+C0195,Cliente 0195,Sevilla,Particular,2023-04-29
+C0196,Cliente 0196,Utrera,Particular,2024-09-29
+C0197,Cliente 0197,Sevilla,Particular,2024-08-11
+C0198,Cliente 0198,Sevilla,Particular,2023-01-13
+C0199,Cliente 0199,Alcalá de Guadaíra,Particular,2025-04-05
+C0200,Cliente 0200,Écija,Particular,2024-04-03
+C0201,Cliente 0201,Sevilla,Particular,2023-10-29
+C0202,Cliente 0202,Mairena del Aljarafe,Particular,2025-02-20
+C0203,Cliente 0203,Sevilla,Particular,2025-09-24
+C0204,Cliente 0204,Alcalá de Guadaíra,Particular,2023-10-11
+C0205,Cliente 0205,Sevilla,Particular,2023-04-17
+C0206,Cliente 0206,Sevilla,Particular,2024-10-27
+C0207,Cliente 0207,Dos Hermanas,Particular,2023-04-01
+C0208,Cliente 0208,Utrera,Particular,2023-01-29
+C0209,Cliente 0209,Sevilla,Particular,2023-05-24
+C0210,Cliente 0210,Mairena del Aljarafe,Particular,2023-07-18
+C0211,Cliente 0211,Sevilla,Empresa,2024-10-18
+C0212,Cliente 0212,Sevilla,Empresa,2023-01-06
+C0213,Cliente 0213,Utrera,Particular,2024-08-28
+C0214,Cliente 0214,Écija,Particular,2023-08-27
+C0215,Cliente 0215,Sevilla,Particular,2023-02-27
+C0216,Cliente 0216,Écija,Particular,2025-07-16
+C0217,Cliente 0217,Utrera,Particular,2024-11-29
+C0218,Cliente 0218,Sevilla,Particular,2023-02-10
+C0219,Cliente 0219,Sevilla,Particular,2023-05-05
+C0220,Cliente 0220,Sevilla,Particular,2025-01-15
+C0221,Cliente 0221,Sevilla,Particular,2025-05-01
+C0222,Cliente 0222,Mairena del Aljarafe,Particular,2025-01-04
+C0223,Cliente 0223,Sevilla,Particular,2023-09-28
+C0224,Cliente 0224,Sevilla,Particular,2025-09-07
+C0225,Cliente 0225,Sevilla,Particular,2023-02-24
+C0226,Cliente 0226,Sevilla,Particular,2023-02-12
+C0227,Cliente 0227,Sevilla,Particular,2024-12-10
+C0228,Cliente 0228,Sevilla,Particular,2023-04-02
+C0229,Cliente 0229,Sevilla,Particular,2025-09-07
+C0230,Cliente 0230,Sevilla,Particular,2025-02-23
+C0231,Cliente 0231,Utrera,Particular,2024-07-26
+C0232,Cliente 0232,Sevilla,Particular,2025-08-04
+C0233,Cliente 0233,Sevilla,Particular,2024-08-01
+C0234,Cliente 0234,Sevilla,Particular,2024-10-11
+C0235,Cliente 0235,Sevilla,Particular,2023-05-29
+C0236,Cliente 0236,Alcalá de Guadaíra,Particular,2024-02-09
+C0237,Cliente 0237,Sevilla,Particular,2023-04-30
+C0238,Cliente 0238,Écija,Particular,2023-10-06
+C0239,Cliente 0239,Dos Hermanas,Particular,2024-03-03
+C0240,Cliente 0240,Sevilla,Particular,2024-09-26
+C0241,Cliente 0241,Sevilla,Particular,2024-02-13
+C0242,Cliente 0242,Écija,Particular,2024-08-11
+C0243,Cliente 0243,Écija,Particular,2023-02-06
+C0244,Cliente 0244,Sevilla,Particular,2024-04-19
+C0245,Cliente 0245,Sevilla,Particular,2024-07-26
+C0246,Cliente 0246,Dos Hermanas,Particular,2024-12-03
+C0247,Cliente 0247,Dos Hermanas,Particular,2024-10-14
+C0248,Cliente 0248,Sevilla,Particular,2025-02-26
+C0249,Cliente 0249,Sevilla,Particular,2024-03-07
+C0250,Cliente 0250,Sevilla,Particular,2023-12-27
+C0251,Cliente 0251,Mairena del Aljarafe,Particular,2025-01-06
+C0252,Cliente 0252,Sevilla,Particular,2025-07-10
+C0253,Cliente 0253,Mairena del Aljarafe,Particular,2024-06-04
+C0254,Cliente 0254,Sevilla,Particular,2023-11-11
+C0255,Cliente 0255,Sevilla,Particular,2024-05-09
+C0256,Cliente 0256,Sevilla,Particular,2023-03-14
+C0257,Cliente 0257,Utrera,Particular,2023-02-25
+C0258,Cliente 0258,Dos Hermanas,Particular,2023-12-01
+C0259,Cliente 0259,Mairena del Aljarafe,Particular,2023-11-10
+C0260,Cliente 0260,Utrera,Particular,2023-01-15
+C0261,Cliente 0261,Alcalá de Guadaíra,Particular,2025-05-06
+C0262,Cliente 0262,Alcalá de Guadaíra,Particular,2023-06-03
+C0263,Cliente 0263,Alcalá de Guadaíra,Particular,2023-04-30
+C0264,Cliente 0264,Sevilla,Particular,2025-08-16
+C0265,Cliente 0265,Sevilla,Particular,2025-02-11
+C0266,Cliente 0266,Mairena del Aljarafe,Particular,2024-11-18
+C0267,Cliente 0267,Mairena del Aljarafe,Particular,2024-01-23
+C0268,Cliente 0268,Sevilla,Particular,2023-01-11
+C0269,Cliente 0269,Mairena del Aljarafe,Particular,2024-06-09
+C0270,Cliente 0270,Alcalá de Guadaíra,Particular,2023-06-15
+C0271,Cliente 0271,Écija,Particular,2025-09-16
+C0272,Cliente 0272,Sevilla,Particular,2025-04-19
+C0273,Cliente 0273,Alcalá de Guadaíra,Particular,2023-05-22
+C0274,Cliente 0274,Utrera,Particular,2024-01-28
+C0275,Cliente 0275,Utrera,Particular,2025-01-25
+C0276,Cliente 0276,Sevilla,Particular,2024-04-14
+C0277,Cliente 0277,Sevilla,Particular,2023-06-30
+C0278,Cliente 0278,Écija,Particular,2023-02-14
+C0279,Cliente 0279,Sevilla,Particular,2023-10-20
+C0280,Cliente 0280,Écija,Particular,2024-08-09
+C0281,Cliente 0281,Sevilla,Particular,2023-03-26
+C0282,Cliente 0282,Utrera,Particular,2025-04-23
+C0283,Cliente 0283,Dos Hermanas,Particular,2024-10-11
+C0284,Cliente 0284,Mairena del Aljarafe,Empresa,2025-02-01
+C0285,Cliente 0285,Alcalá de Guadaíra,Particular,2024-01-02
+C0286,Cliente 0286,Utrera,Particular,2023-12-05
+C0287,Cliente 0287,Sevilla,Particular,2024-04-27
+C0288,Cliente 0288,Alcalá de Guadaíra,Particular,2025-05-02
+C0289,Cliente 0289,Sevilla,Particular,2025-06-28
+C0290,Cliente 0290,Sevilla,Particular,2025-04-30
+C0291,Cliente 0291,Dos Hermanas,Particular,2024-05-13
+C0292,Cliente 0292,Sevilla,Particular,2023-04-15
+C0293,Cliente 0293,Écija,Particular,2025-07-06
+C0294,Cliente 0294,Sevilla,Particular,2023-06-27
+C0295,Cliente 0295,Sevilla,Empresa,2023-07-11
+C0296,Cliente 0296,Dos Hermanas,Particular,2025-07-16
+C0297,Cliente 0297,Sevilla,Particular,2023-11-04
+C0298,Cliente 0298,Dos Hermanas,Particular,2023-01-08
+C0299,Cliente 0299,Sevilla,Particular,2024-12-04
+C0300,Cliente 0300,Alcalá de Guadaíra,Particular,2025-09-08
+C0301,Cliente 0301,Utrera,Particular,2024-04-22
+C0302,Cliente 0302,Alcalá de Guadaíra,Particular,2025-06-22
+C0303,Cliente 0303,Sevilla,Particular,2025-08-21
+C0304,Cliente 0304,Sevilla,Particular,2025-05-16
+C0305,Cliente 0305,Sevilla,Particular,2025-01-02
+C0306,Cliente 0306,Alcalá de Guadaíra,Particular,2024-07-07
+C0307,Cliente 0307,Sevilla,Particular,2025-08-27
+C0308,Cliente 0308,Sevilla,Particular,2023-10-16
+C0309,Cliente 0309,Écija,Particular,2025-01-19
+C0310,Cliente 0310,Sevilla,Empresa,2023-05-04
+C0311,Cliente 0311,Sevilla,Particular,2025-02-16
+C0312,Cliente 0312,Utrera,Particular,2025-09-12
+C0313,Cliente 0313,Sevilla,Particular,2025-09-04
+C0314,Cliente 0314,Sevilla,Particular,2025-03-04
+C0315,Cliente 0315,Sevilla,Particular,2024-07-09
+C0316,Cliente 0316,Sevilla,Particular,2025-07-13
+C0317,Cliente 0317,Sevilla,Particular,2023-02-06
+C0318,Cliente 0318,Écija,Particular,2023-02-18
+C0319,Cliente 0319,Écija,Particular,2024-11-06
+C0320,Cliente 0320,Alcalá de Guadaíra,Particular,2025-02-12
+C0321,Cliente 0321,Mairena del Aljarafe,Particular,2025-01-09
+C0322,Cliente 0322,Sevilla,Particular,2023-02-18
+C0323,Cliente 0323,Sevilla,Particular,2024-09-13
+C0324,Cliente 0324,Sevilla,Particular,2023-01-05
+C0325,Cliente 0325,Sevilla,Empresa,2024-11-08
+C0326,Cliente 0326,Mairena del Aljarafe,Particular,2024-02-06
+C0327,Cliente 0327,Dos Hermanas,Particular,2024-11-02
+C0328,Cliente 0328,Sevilla,Particular,2025-05-02
+C0329,Cliente 0329,Mairena del Aljarafe,Particular,2025-05-03
+C0330,Cliente 0330,Alcalá de Guadaíra,Particular,2024-08-13
+C0331,Cliente 0331,Sevilla,Particular,2023-10-02
+C0332,Cliente 0332,Utrera,Particular,2023-07-07
+C0333,Cliente 0333,Alcalá de Guadaíra,Particular,2023-12-08
+C0334,Cliente 0334,Sevilla,Particular,2025-03-18
+C0335,Cliente 0335,Alcalá de Guadaíra,Particular,2023-10-24
+C0336,Cliente 0336,Sevilla,Particular,2023-05-17
+C0337,Cliente 0337,Sevilla,Particular,2025-09-24
+C0338,Cliente 0338,Mairena del Aljarafe,Particular,2024-08-18
+C0339,Cliente 0339,Sevilla,Particular,2025-07-04
+C0340,Cliente 0340,Sevilla,Particular,2023-05-15
+C0341,Cliente 0341,Sevilla,Particular,2023-03-09
+C0342,Cliente 0342,Dos Hermanas,Particular,2023-01-18
+C0343,Cliente 0343,Écija,Particular,2024-09-26
+C0344,Cliente 0344,Sevilla,Particular,2024-02-25
+C0345,Cliente 0345,Écija,Particular,2025-01-21
+C0346,Cliente 0346,Écija,Particular,2023-10-12
+C0347,Cliente 0347,Sevilla,Particular,2023-08-24
+C0348,Cliente 0348,Utrera,Particular,2025-06-28
+C0349,Cliente 0349,Écija,Particular,2025-01-12
+C0350,Cliente 0350,Dos Hermanas,Particular,2024-10-15
+C0351,Cliente 0351,Utrera,Particular,2023-08-30
+C0352,Cliente 0352,Sevilla,Particular,2023-06-05
+C0353,Cliente 0353,Sevilla,Particular,2023-10-11
+C0354,Cliente 0354,Sevilla,Particular,2025-03-02
+C0355,Cliente 0355,Dos Hermanas,Particular,2024-03-14
+C0356,Cliente 0356,Écija,Particular,2025-09-21
+C0357,Cliente 0357,Sevilla,Particular,2025-03-25
+C0358,Cliente 0358,Sevilla,Particular,2025-02-26
+C0359,Cliente 0359,Sevilla,Particular,2024-07-16
+C0360,Cliente 0360,Sevilla,Particular,2024-10-14
+C0361,Cliente 0361,Mairena del Aljarafe,Particular,2024-05-27
+C0362,Cliente 0362,Sevilla,Particular,2023-02-05
+C0363,Cliente 0363,Mairena del Aljarafe,Empresa,2023-04-14
+C0364,Cliente 0364,Sevilla,Empresa,2023-09-04
+C0365,Cliente 0365,Écija,Particular,2024-03-31
+C0366,Cliente 0366,Mairena del Aljarafe,Empresa,2023-11-09
+C0367,Cliente 0367,Utrera,Particular,2023-04-22
+C0368,Cliente 0368,Mairena del Aljarafe,Particular,2023-03-02
+C0369,Cliente 0369,Sevilla,Particular,2023-07-27
+C0370,Cliente 0370,Sevilla,Particular,2024-01-30
+C0371,Cliente 0371,Sevilla,Particular,2023-01-02
+C0372,Cliente 0372,Sevilla,Empresa,2025-05-12
+C0373,Cliente 0373,Sevilla,Particular,2024-05-23
+C0374,Cliente 0374,Sevilla,Particular,2023-11-30
+C0375,Cliente 0375,Dos Hermanas,Particular,2025-02-19
+C0376,Cliente 0376,Sevilla,Particular,2023-09-18
+C0377,Cliente 0377,Dos Hermanas,Particular,2023-08-31
+C0378,Cliente 0378,Utrera,Particular,2024-11-14
+C0379,Cliente 0379,Mairena del Aljarafe,Particular,2023-11-27
+C0380,Cliente 0380,Sevilla,Particular,2023-02-18
+C0381,Cliente 0381,Utrera,Particular,2024-12-12
+C0382,Cliente 0382,Dos Hermanas,Particular,2023-02-17
+C0383,Cliente 0383,Sevilla,Empresa,2025-07-07
+C0384,Cliente 0384,Écija,Empresa,2023-07-08
+C0385,Cliente 0385,Sevilla,Particular,2023-04-21
+C0386,Cliente 0386,Sevilla,Particular,2023-08-30
+C0387,Cliente 0387,Sevilla,Particular,2024-08-13
+C0388,Cliente 0388,Sevilla,Particular,2023-01-05
+C0389,Cliente 0389,Sevilla,Particular,2024-09-11
+C0390,Cliente 0390,Utrera,Particular,2025-02-11
+C0391,Cliente 0391,Sevilla,Particular,2023-09-12
+C0392,Cliente 0392,Dos Hermanas,Particular,2024-03-30
+C0393,Cliente 0393,Écija,Particular,2025-09-11
+C0394,Cliente 0394,Mairena del Aljarafe,Particular,2025-03-24
+C0395,Cliente 0395,Dos Hermanas,Particular,2025-03-10
+C0396,Cliente 0396,Sevilla,Particular,2023-08-05
+C0397,Cliente 0397,Dos Hermanas,Empresa,2023-11-14
+C0398,Cliente 0398,Utrera,Particular,2023-01-30
+C0399,Cliente 0399,Sevilla,Particular,2023-01-20
+C0400,Cliente 0400,Alcalá de Guadaíra,Particular,2024-12-26
+C0401,Cliente 0401,Sevilla,Particular,2025-01-08
+C0402,Cliente 0402,Sevilla,Particular,2025-06-09
+C0403,Cliente 0403,Sevilla,Particular,2023-05-07
+C0404,Cliente 0404,Alcalá de Guadaíra,Particular,2024-11-24
+C0405,Cliente 0405,Mairena del Aljarafe,Particular,2024-05-22
+C0406,Cliente 0406,Sevilla,Empresa,2023-01-05
+C0407,Cliente 0407,Dos Hermanas,Particular,2025-09-20
+C0408,Cliente 0408,Sevilla,Particular,2023-05-07
+C0409,Cliente 0409,Sevilla,Particular,2025-05-30
+C0410,Cliente 0410,Sevilla,Particular,2024-09-13
+C0411,Cliente 0411,Alcalá de Guadaíra,Particular,2023-02-20
+C0412,Cliente 0412,Sevilla,Particular,2023-10-22
+C0413,Cliente 0413,Écija,Empresa,2025-04-16
+C0414,Cliente 0414,Sevilla,Particular,2024-08-18
+C0415,Cliente 0415,Utrera,Particular,2025-05-23
+C0416,Cliente 0416,Dos Hermanas,Particular,2024-09-02
+C0417,Cliente 0417,Sevilla,Particular,2024-02-01
+C0418,Cliente 0418,Sevilla,Particular,2024-12-26
+C0419,Cliente 0419,Sevilla,Particular,2025-01-28
+C0420,Cliente 0420,Sevilla,Particular,2024-02-24
+C0421,Cliente 0421,Écija,Particular,2023-01-13
+C0422,Cliente 0422,Sevilla,Particular,2024-06-04
+C0423,Cliente 0423,Écija,Particular,2023-04-05
+C0424,Cliente 0424,Alcalá de Guadaíra,Particular,2024-01-31
+C0425,Cliente 0425,Sevilla,Particular,2023-05-30
+C0426,Cliente 0426,Sevilla,Particular,2023-06-28
+C0427,Cliente 0427,Écija,Particular,2025-05-08
+C0428,Cliente 0428,Sevilla,Particular,2023-08-01
+C0429,Cliente 0429,Utrera,Particular,2025-01-03
+C0430,Cliente 0430,Alcalá de Guadaíra,Particular,2024-01-15
+C0431,Cliente 0431,Sevilla,Particular,2025-01-11
+C0432,Cliente 0432,Sevilla,Particular,2025-02-21
+C0433,Cliente 0433,Sevilla,Particular,2023-04-15
+C0434,Cliente 0434,Alcalá de Guadaíra,Particular,2025-05-15
+C0435,Cliente 0435,Sevilla,Particular,2023-04-10
+C0436,Cliente 0436,Sevilla,Empresa,2025-01-13
+C0437,Cliente 0437,Sevilla,Particular,2025-09-06
+C0438,Cliente 0438,Mairena del Aljarafe,Particular,2024-12-20
+C0439,Cliente 0439,Dos Hermanas,Particular,2024-01-30
+C0440,Cliente 0440,Sevilla,Particular,2024-08-31
+C0441,Cliente 0441,Sevilla,Particular,2024-02-14
+C0442,Cliente 0442,Dos Hermanas,Particular,2025-07-24
+C0443,Cliente 0443,Sevilla,Particular,2023-07-16
+C0444,Cliente 0444,Sevilla,Particular,2024-01-30
+C0445,Cliente 0445,Sevilla,Particular,2023-06-12
+C0446,Cliente 0446,Sevilla,Particular,2023-12-06
+C0447,Cliente 0447,Alcalá de Guadaíra,Particular,2023-09-01
+C0448,Cliente 0448,Sevilla,Particular,2025-01-23
+C0449,Cliente 0449,Sevilla,Particular,2023-10-06
+C0450,Cliente 0450,Écija,Particular,2023-07-05
+C0451,Cliente 0451,Sevilla,Particular,2024-04-13
+C0452,Cliente 0452,Sevilla,Particular,2023-02-15
+C0453,Cliente 0453,Sevilla,Particular,2025-08-17
+C0454,Cliente 0454,Alcalá de Guadaíra,Particular,2024-05-10
+C0455,Cliente 0455,Sevilla,Particular,2023-09-10
+C0456,Cliente 0456,Sevilla,Particular,2025-02-03
+C0457,Cliente 0457,Mairena del Aljarafe,Particular,2025-06-20
+C0458,Cliente 0458,Dos Hermanas,Particular,2025-09-09
+C0459,Cliente 0459,Dos Hermanas,Particular,2023-03-13
+C0460,Cliente 0460,Écija,Particular,2023-11-01
+C0461,Cliente 0461,Sevilla,Particular,2023-04-07
+C0462,Cliente 0462,Mairena del Aljarafe,Particular,2024-09-08
+C0463,Cliente 0463,Sevilla,Particular,2023-06-15
+C0464,Cliente 0464,Sevilla,Particular,2023-06-10
+C0465,Cliente 0465,Sevilla,Particular,2024-08-07
+C0466,Cliente 0466,Mairena del Aljarafe,Particular,2023-10-24
+C0467,Cliente 0467,Utrera,Particular,2024-02-09
+C0468,Cliente 0468,Sevilla,Particular,2025-02-11
+C0469,Cliente 0469,Dos Hermanas,Particular,2025-07-30
+C0470,Cliente 0470,Sevilla,Particular,2025-06-15
+C0471,Cliente 0471,Sevilla,Particular,2023-09-22
+C0472,Cliente 0472,Dos Hermanas,Particular,2023-06-29
+C0473,Cliente 0473,Sevilla,Particular,2024-03-25
+C0474,Cliente 0474,Utrera,Particular,2024-12-11
+C0475,Cliente 0475,Dos Hermanas,Particular,2025-05-24
+C0476,Cliente 0476,Sevilla,Particular,2024-06-14
+C0477,Cliente 0477,Sevilla,Particular,2023-09-02
+C0478,Cliente 0478,Sevilla,Particular,2025-07-29
+C0479,Cliente 0479,Sevilla,Particular,2025-02-16
+C0480,Cliente 0480,Sevilla,Particular,2024-05-05
+C0481,Cliente 0481,Sevilla,Particular,2024-06-20
+C0482,Cliente 0482,Sevilla,Particular,2023-05-12
+C0483,Cliente 0483,Sevilla,Particular,2025-08-10
+C0484,Cliente 0484,Utrera,Particular,2025-08-11
+C0485,Cliente 0485,Sevilla,Particular,2024-07-08
+C0486,Cliente 0486,Sevilla,Empresa,2023-09-11
+C0487,Cliente 0487,Sevilla,Particular,2023-04-29
+C0488,Cliente 0488,Sevilla,Particular,2023-11-18
+C0489,Cliente 0489,Sevilla,Particular,2024-04-10
+C0490,Cliente 0490,Sevilla,Particular,2024-06-15
+C0491,Cliente 0491,Utrera,Particular,2025-09-15
+C0492,Cliente 0492,Mairena del Aljarafe,Particular,2025-01-11
+C0493,Cliente 0493,Utrera,Particular,2023-06-02
+C0494,Cliente 0494,Alcalá de Guadaíra,Empresa,2023-12-08
+C0495,Cliente 0495,Écija,Particular,2023-12-09
+C0496,Cliente 0496,Alcalá de Guadaíra,Particular,2024-09-14
+C0497,Cliente 0497,Alcalá de Guadaíra,Particular,2025-03-04
+C0498,Cliente 0498,Sevilla,Particular,2025-07-12
+C0499,Cliente 0499,Sevilla,Empresa,2024-10-01
+C0500,Cliente 0500,Dos Hermanas,Particular,2025-09-20
+C0501,Cliente 0501,Utrera,Particular,2023-03-04
+C0502,Cliente 0502,Mairena del Aljarafe,Particular,2023-05-10
+C0503,Cliente 0503,Mairena del Aljarafe,Particular,2024-09-24
+C0504,Cliente 0504,Sevilla,Particular,2025-07-10
+C0505,Cliente 0505,Sevilla,Particular,2024-12-27
+C0506,Cliente 0506,Sevilla,Particular,2024-10-21
+C0507,Cliente 0507,Sevilla,Particular,2024-04-17
+C0508,Cliente 0508,Sevilla,Particular,2023-12-09
+C0509,Cliente 0509,Sevilla,Particular,2024-11-09
+C0510,Cliente 0510,Dos Hermanas,Particular,2023-02-10
+C0511,Cliente 0511,Sevilla,Particular,2025-06-11
+C0512,Cliente 0512,Sevilla,Particular,2025-09-18
+C0513,Cliente 0513,Mairena del Aljarafe,Particular,2024-10-21
+C0514,Cliente 0514,Sevilla,Particular,2025-08-05
+C0515,Cliente 0515,Mairena del Aljarafe,Particular,2025-01-08
+C0516,Cliente 0516,Utrera,Particular,2024-07-15
+C0517,Cliente 0517,Dos Hermanas,Particular,2024-05-23
+C0518,Cliente 0518,Sevilla,Particular,2024-02-24
+C0519,Cliente 0519,Sevilla,Particular,2023-12-09
+C0520,Cliente 0520,Sevilla,Particular,2024-03-16
+C0521,Cliente 0521,Utrera,Particular,2023-04-02
+C0522,Cliente 0522,Sevilla,Particular,2024-10-17
+C0523,Cliente 0523,Sevilla,Particular,2023-01-20
+C0524,Cliente 0524,Mairena del Aljarafe,Particular,2023-07-17
+C0525,Cliente 0525,Écija,Particular,2025-05-10
+C0526,Cliente 0526,Écija,Particular,2024-10-29
+C0527,Cliente 0527,Utrera,Particular,2023-10-03
+C0528,Cliente 0528,Sevilla,Particular,2023-10-11
+C0529,Cliente 0529,Écija,Particular,2025-06-29
+C0530,Cliente 0530,Écija,Particular,2024-06-26
+C0531,Cliente 0531,Mairena del Aljarafe,Particular,2025-08-10
+C0532,Cliente 0532,Mairena del Aljarafe,Particular,2023-09-13
+C0533,Cliente 0533,Sevilla,Particular,2023-11-17
+C0534,Cliente 0534,Sevilla,Particular,2024-02-04
+C0535,Cliente 0535,Sevilla,Particular,2023-01-24
+C0536,Cliente 0536,Alcalá de Guadaíra,Particular,2025-05-25
+C0537,Cliente 0537,Sevilla,Particular,2024-03-19
+C0538,Cliente 0538,Utrera,Particular,2025-05-03
+C0539,Cliente 0539,Utrera,Particular,2024-06-28
+C0540,Cliente 0540,Sevilla,Particular,2024-09-24
+C0541,Cliente 0541,Mairena del Aljarafe,Particular,2023-09-02
+C0542,Cliente 0542,Écija,Particular,2025-07-12
+C0543,Cliente 0543,Écija,Particular,2025-09-05
+C0544,Cliente 0544,Écija,Particular,2025-02-03
+C0545,Cliente 0545,Sevilla,Particular,2024-04-25
+C0546,Cliente 0546,Alcalá de Guadaíra,Particular,2023-08-29
+C0547,Cliente 0547,Dos Hermanas,Particular,2023-10-17
+C0548,Cliente 0548,Sevilla,Particular,2024-08-08
+C0549,Cliente 0549,Sevilla,Particular,2023-08-07
+C0550,Cliente 0550,Sevilla,Particular,2025-05-10
+C0551,Cliente 0551,Sevilla,Particular,2023-01-08
+C0552,Cliente 0552,Sevilla,Particular,2025-03-08
+C0553,Cliente 0553,Sevilla,Particular,2023-05-19
+C0554,Cliente 0554,Dos Hermanas,Particular,2023-04-26
+C0555,Cliente 0555,Sevilla,Particular,2025-09-25
+C0556,Cliente 0556,Écija,Particular,2023-06-03
+C0557,Cliente 0557,Sevilla,Particular,2024-09-11
+C0558,Cliente 0558,Sevilla,Empresa,2025-09-07
+C0559,Cliente 0559,Écija,Particular,2023-05-18
+C0560,Cliente 0560,Sevilla,Particular,2023-09-28
+C0561,Cliente 0561,Sevilla,Particular,2024-10-25
+C0562,Cliente 0562,Alcalá de Guadaíra,Particular,2025-04-12
+C0563,Cliente 0563,Sevilla,Particular,2024-02-28
+C0564,Cliente 0564,Sevilla,Particular,2024-05-15
+C0565,Cliente 0565,Mairena del Aljarafe,Particular,2024-10-14
+C0566,Cliente 0566,Sevilla,Particular,2025-09-26
+C0567,Cliente 0567,Sevilla,Particular,2023-04-06
+C0568,Cliente 0568,Sevilla,Particular,2025-09-03
+C0569,Cliente 0569,Sevilla,Particular,2024-04-06
+C0570,Cliente 0570,Sevilla,Particular,2023-02-21
+C0571,Cliente 0571,Mairena del Aljarafe,Particular,2023-12-20
+C0572,Cliente 0572,Alcalá de Guadaíra,Particular,2025-04-12
+C0573,Cliente 0573,Écija,Particular,2024-02-21
+C0574,Cliente 0574,Sevilla,Particular,2025-01-18
+C0575,Cliente 0575,Sevilla,Particular,2024-05-06
+C0576,Cliente 0576,Sevilla,Particular,2023-05-24
+C0577,Cliente 0577,Écija,Particular,2023-04-07
+C0578,Cliente 0578,Sevilla,Empresa,2024-06-17
+C0579,Cliente 0579,Sevilla,Empresa,2023-02-22
+C0580,Cliente 0580,Sevilla,Particular,2024-03-12
+C0581,Cliente 0581,Sevilla,Particular,2023-02-04
+C0582,Cliente 0582,Mairena del Aljarafe,Particular,2025-04-03
+C0583,Cliente 0583,Sevilla,Particular,2023-05-27
+C0584,Cliente 0584,Sevilla,Particular,2025-04-03
+C0585,Cliente 0585,Sevilla,Particular,2025-03-30
+C0586,Cliente 0586,Sevilla,Particular,2024-01-30
+C0587,Cliente 0587,Dos Hermanas,Particular,2023-09-15
+C0588,Cliente 0588,Sevilla,Particular,2024-05-19
+C0589,Cliente 0589,Alcalá de Guadaíra,Particular,2024-04-09
+C0590,Cliente 0590,Sevilla,Particular,2023-08-08
+C0591,Cliente 0591,Alcalá de Guadaíra,Particular,2025-01-21
+C0592,Cliente 0592,Mairena del Aljarafe,Particular,2023-03-27
+C0593,Cliente 0593,Sevilla,Particular,2023-06-25
+C0594,Cliente 0594,Sevilla,Particular,2024-02-03
+C0595,Cliente 0595,Utrera,Particular,2023-05-18
+C0596,Cliente 0596,Sevilla,Particular,2024-03-24
+C0597,Cliente 0597,Sevilla,Particular,2025-05-25
+C0598,Cliente 0598,Écija,Particular,2025-05-22
+C0599,Cliente 0599,Dos Hermanas,Particular,2023-08-09
+C0600,Cliente 0600,Écija,Particular,2023-10-17
+C0601,Cliente 0601,Sevilla,Particular,2024-07-20
+C0602,Cliente 0602,Sevilla,Particular,2025-04-08
+C0603,Cliente 0603,Sevilla,Empresa,2023-01-27
+C0604,Cliente 0604,Écija,Particular,2024-08-24
+C0605,Cliente 0605,Dos Hermanas,Particular,2023-09-18
+C0606,Cliente 0606,Sevilla,Particular,2025-01-27
+C0607,Cliente 0607,Sevilla,Particular,2024-07-15
+C0608,Cliente 0608,Mairena del Aljarafe,Particular,2023-09-28
+C0609,Cliente 0609,Sevilla,Particular,2023-11-11
+C0610,Cliente 0610,Alcalá de Guadaíra,Empresa,2024-11-07
+C0611,Cliente 0611,Sevilla,Particular,2023-01-02
+C0612,Cliente 0612,Dos Hermanas,Particular,2025-06-13
+C0613,Cliente 0613,Mairena del Aljarafe,Particular,2023-06-21
+C0614,Cliente 0614,Sevilla,Particular,2024-04-14
+C0615,Cliente 0615,Utrera,Empresa,2025-07-24
+C0616,Cliente 0616,Sevilla,Particular,2023-08-04
+C0617,Cliente 0617,Sevilla,Particular,2023-07-15
+C0618,Cliente 0618,Sevilla,Particular,2023-08-03
+C0619,Cliente 0619,Sevilla,Particular,2023-07-26
+C0620,Cliente 0620,Sevilla,Particular,2023-06-26
+C0621,Cliente 0621,Alcalá de Guadaíra,Particular,2025-05-10
+C0622,Cliente 0622,Sevilla,Empresa,2023-12-27
+C0623,Cliente 0623,Sevilla,Particular,2023-12-24
+C0624,Cliente 0624,Écija,Particular,2024-09-02
+C0625,Cliente 0625,Mairena del Aljarafe,Particular,2025-06-07
+C0626,Cliente 0626,Alcalá de Guadaíra,Particular,2023-04-10
+C0627,Cliente 0627,Sevilla,Particular,2023-04-26
+C0628,Cliente 0628,Sevilla,Particular,2023-05-02
+C0629,Cliente 0629,Écija,Particular,2025-01-24
+C0630,Cliente 0630,Alcalá de Guadaíra,Particular,2024-06-10
+C0631,Cliente 0631,Sevilla,Particular,2023-02-14
+C0632,Cliente 0632,Sevilla,Particular,2023-11-20
+C0633,Cliente 0633,Sevilla,Particular,2024-07-30
+C0634,Cliente 0634,Écija,Particular,2023-06-20
+C0635,Cliente 0635,Sevilla,Particular,2024-05-13
+C0636,Cliente 0636,Sevilla,Particular,2025-08-28
+C0637,Cliente 0637,Mairena del Aljarafe,Particular,2024-02-02
+C0638,Cliente 0638,Sevilla,Particular,2023-05-09
+C0639,Cliente 0639,Sevilla,Particular,2023-07-13
+C0640,Cliente 0640,Mairena del Aljarafe,Particular,2025-05-16
