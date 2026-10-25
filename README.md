@@ -9,7 +9,7 @@ Cada episodio cuenta un problema real de tecnología como una historia: *imagina
 | 1 | Imagina que una IA te hace el dashboard de tu negocio | [`01-dashboard-ia`](01-dashboard-ia) |
 | 2 | Imagina que te creas tu perfil de LinkedIn | [`02-linkedin`](02-linkedin) |
 | 3 | Imagina que tu empresa necesita un Data Warehouse | [`03-data-warehouse`](03-data-warehouse) |
-| 4 | Imagina que te cuentan qué es un ERP | próximamente |
+| 4 | Imagina que te cuentan qué es un ERP | [`04-erp`](04-erp) |
 | 5 | Imagina que te cuentan qué es un CRM | próximamente |
 | 6 | Imagina que quieres ayudar a tu compañero de IT | próximamente |
 | 7 | Imagina que montas tu primera automatización | próximamente |
